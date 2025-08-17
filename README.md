@@ -5,7 +5,7 @@ This project analyzes the purchasing power of the Philippine Peso from 1984 to 2
 ## Visualizations
 
 - **A Peso’s Worth Infographic:**  
-  ![A Peso’s Worth](images/infographic_final3.png)  
+  ![A Peso’s Worth](images/Infographic_final3.png)  
   Key events and rice purchasing power over time (designed in Figma).
 
 - **Peso Purchasing Power by Year and Month:**  
